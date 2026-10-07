@@ -18,5 +18,5 @@ int res1 = ++a1 * 2;
 Console.WriteLine(\$"{res1} ({a1})");
 ```
 #### Результат выполнения:
-![Результат 2](SCRN/screen%20(2).png)
+![Результат 2](SCRN/screen(2).png)
 
