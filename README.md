@@ -8,7 +8,7 @@ Console.WriteLine("x = " + x);
 Console.WriteLine("y = " + y);
 ```
 #### Результат выполнения:
-<img src="SCRN/(1).png" alt="Результат 1" width="600"/>
+![Результат 1](SCRN/%20%281%29.png)
 
 
 ### | Программа 2. Префиксный инкремент
