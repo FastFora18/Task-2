@@ -19,7 +19,7 @@ int res1 = ++a1 * 2;
 Console.WriteLine(\$" {res1} ({a1})");
 ```
 #### Результат выполнения:
-![Uploading image.png…]()
+[[![Uploading image.png…]()](https://github.com/KseniaBashkatova/Task2./raw/main/asssets/3.1.1.png)](https://github.com/FastFora18/Task-2/blob/main/S%D0%A1RN/(2).png?raw=true)
 
 
 
