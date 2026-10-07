@@ -8,7 +8,8 @@ Console.WriteLine("x = " + x);
 Console.WriteLine("y = " + y);
 ```
 #### Результат выполнения:
-<img src="SCRN/(1).png" width="600" />
+<img width="1901" height="996" alt="image" src="https://github.com/user-attachments/assets/b7b45223-cf02-41af-a5fb-cc1fc2d4c619" />
+
 
 
 ### | Программа 2. Префиксный инкремент
