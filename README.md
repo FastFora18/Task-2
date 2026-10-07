@@ -8,15 +8,24 @@ Console.WriteLine("x = " + x);
 Console.WriteLine("y = " + y);
 ```
 #### Результат выполнения:
-![Результат 1](SCRN/%281%29.png)
+<img src="SCRN/(1).png" alt="Результат 1" width="600"/>
 
 
 ### | Программа 2. Префиксный инкремент
 ```csharp
 int a1 = 5;
 int res1 = ++a1 * 2;
-Console.WriteLine(\$"{res1} ({a1})");
+Console.WriteLine(\$" {res1} ({a1})");
 ```
 #### Результат выполнения:
-![Результат 2](SCRN/(2).png)
+<img src="SCRN/(2).png" alt="Результат 2" width="600"/>
 
+
+### | Программа 3. Постфиксный инкремент
+```csharp
+int a2 = 5;
+int res2 = a2++ * 2;
+Console.WriteLine(\$" {res2} ({a2})");
+```
+#### Результат выполнения:
+<img src="SCRN/(3).png" alt="Результат 3" width="600"/>
