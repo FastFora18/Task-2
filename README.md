@@ -19,7 +19,8 @@ int res1 = ++a1 * 2;
 Console.WriteLine(\$" {res1} ({a1})");
 ```
 #### Результат выполнения:
-<img src="SCRN/(2).png" alt="Результат 2" width="600"/>
+![Uploading image.png…]()
+
 
 
 ### | Программа 3. Постфиксный инкремент
