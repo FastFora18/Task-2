@@ -1,4 +1,4 @@
-<img width="1558" height="779" alt="image" src="https://github.com/user-attachments/assets/79adce8e-93f4-4791-9f7e-aa1477e8d058" /><img width="1570" height="779" alt="15" src="https://github.com/user-attachments/assets/720ae742-7b62-4e22-bd06-cc39979d69e6" />## Практическая работа №2: Операторы языка C#
+/>## Практическая работа №2: Операторы языка C#
 
 ### | Программа 1. Операции деления и остатка
 ```csharp
