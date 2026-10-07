@@ -4,7 +4,8 @@
 ```csharp
 int x = 17 / 5;
 int y = 17 % 5;
-Console.WriteLine(\$"{x}, {y}");
+Console.WriteLine("x = " + x);
+Console.WriteLine("y = " + y);
 ```
 #### Результат выполнения:
 ![Результат 1](SCRN/screen%20(1).png)
