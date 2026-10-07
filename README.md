@@ -25,7 +25,8 @@ namespace ConsoleApp1
 ```
 
 #### Результат выполнения:
-<img width="1901" height="996" alt="image" src="https://github.com/user-attachments/assets/b7b45223-cf02-41af-a5fb-cc1fc2d4c619" />
+<img width="1541" height="671" alt="1" src="https://github.com/user-attachments/assets/83f5e131-aa4f-402e-9a53-b6101be0a9ea" />
+
 
 
 ### | Программа 2. Префиксный инкремент
